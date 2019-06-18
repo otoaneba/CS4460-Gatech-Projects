@@ -1,1 +1,1 @@
-# Projects for CS4460 at Georgia Tech. Each folder has its own readme.
+## CS4460 projects at Georgia Tech. Please see readme on each folder for more details. 
